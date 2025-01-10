@@ -1,0 +1,14 @@
+C:\OOP-2567\W6\Lab06_Exercise05\bin\Debug\net8.0\Lab06_Exercise05.exe
+C:\OOP-2567\W6\Lab06_Exercise05\bin\Debug\net8.0\Lab06_Exercise05.deps.json
+C:\OOP-2567\W6\Lab06_Exercise05\bin\Debug\net8.0\Lab06_Exercise05.runtimeconfig.json
+C:\OOP-2567\W6\Lab06_Exercise05\bin\Debug\net8.0\Lab06_Exercise05.dll
+C:\OOP-2567\W6\Lab06_Exercise05\bin\Debug\net8.0\Lab06_Exercise05.pdb
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.AssemblyInfoInputs.cache
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.AssemblyInfo.cs
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.csproj.CoreCompileInputs.cache
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.dll
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\refint\Lab06_Exercise05.dll
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.pdb
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\Lab06_Exercise05.genruntimeconfig.cache
+C:\OOP-2567\W6\Lab06_Exercise05\obj\Debug\net8.0\ref\Lab06_Exercise05.dll
